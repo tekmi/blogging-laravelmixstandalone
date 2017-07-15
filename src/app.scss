@@ -1,0 +1,15 @@
+.content {
+  padding: 10px;
+
+  .title {
+    color: #1f648b;
+
+    &:hover {
+      color: #2ab27b;
+    }
+  }
+
+  .paragraph {
+    border: 1px solid #0d3625;
+  }
+}
